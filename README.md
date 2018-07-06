@@ -1,1 +1,1 @@
-# funimation-discord
+# Funimation-Discord
